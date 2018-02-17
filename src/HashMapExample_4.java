@@ -9,7 +9,7 @@ public class HashMapExample {
 		vehicles.put("BMW", 5);
 		vehicles.put("Mercedes", 3);
 		vehicles.put("Audi", 4);
-		vehicles.put("Ford", 10);
+		
 
 		System.out.println("Total vehicles: " + vehicles.size());
 
