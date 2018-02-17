@@ -2,13 +2,13 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class HashMapExample_4 {
+public class HashMapExample {
 	public static void main(String[] args) {
 		Map<String, Integer> vehicles = new HashMap<String, Integer>();
 
 		vehicles.put("BMW", 5);
 		vehicles.put("Mercedes", 3);
-		vehicles.put("Auki", 4);
+		vehicles.put("Audi", 4);
 		
 
 		System.out.println("Total vehicles: " + vehicles.size());
